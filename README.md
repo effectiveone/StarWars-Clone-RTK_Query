@@ -2,7 +2,7 @@
 ![Design preview for the Entertainment web app coding challenge](./src/assets/screenone.webp)
 ![Design preview for the Entertainment web app coding challenge](./src/assets/screentwo.webp)
 
-#  Movies App - Redux Toolkit
+#  Star Wars API - RTK Query
 
  Star Wars API to search information about star wars' people, vehicles, starships, planets, species and films. Browse information by categories to include several genres.
 
